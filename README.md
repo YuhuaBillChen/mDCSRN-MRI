@@ -24,6 +24,8 @@ ready in one week or two. Stay tuned!
 Yuhua Chen
 Granada, Sep 2018
 
-Citation: Chen, Y., Shi, F., Christodoulou, A.G., Zhou, Z., Xie, Y. and Li, D., 2018. Efficient and Accurate MRI
+Citation:
+
+Chen, Y., Shi, F., Christodoulou, A.G., Zhou, Z., Xie, Y. and Li, D., 2018. Efficient and Accurate MRI
 Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network. arXiv preprint
 arXiv:1803.01417.
